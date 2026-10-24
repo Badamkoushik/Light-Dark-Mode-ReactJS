@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Light-Dark-Mode-ReactJS/static/css/main.fe10adc9.chunk.css",
+    "main.js": "/Light-Dark-Mode-ReactJS/static/js/main.009af970.chunk.js",
+    "main.js.map": "/Light-Dark-Mode-ReactJS/static/js/main.009af970.chunk.js.map",
+    "runtime-main.js": "/Light-Dark-Mode-ReactJS/static/js/runtime-main.67b0254d.js",
+    "runtime-main.js.map": "/Light-Dark-Mode-ReactJS/static/js/runtime-main.67b0254d.js.map",
+    "static/js/2.d6af2714.chunk.js": "/Light-Dark-Mode-ReactJS/static/js/2.d6af2714.chunk.js",
+    "static/js/2.d6af2714.chunk.js.map": "/Light-Dark-Mode-ReactJS/static/js/2.d6af2714.chunk.js.map",
+    "index.html": "/Light-Dark-Mode-ReactJS/index.html",
+    "static/css/main.fe10adc9.chunk.css.map": "/Light-Dark-Mode-ReactJS/static/css/main.fe10adc9.chunk.css.map",
+    "static/js/2.d6af2714.chunk.js.LICENSE.txt": "/Light-Dark-Mode-ReactJS/static/js/2.d6af2714.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67b0254d.js",
+    "static/js/2.d6af2714.chunk.js",
+    "static/css/main.fe10adc9.chunk.css",
+    "static/js/main.009af970.chunk.js"
+  ]
+}
